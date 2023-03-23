@@ -5,22 +5,20 @@ VegeKit project was initiated to respond to the increasing demand for home meal 
 
 Members
 -------------
+*Ji-eun Kim (Backend, Frontend)
+*Jung-hyun Kim (Backend)
+*Soo-yeon Kim (Backend)
+*Min-a Lee (Backend)
 
-Ji-eun Kim (Backend, Frontend)
-Jung-hyun Kim (Backend)
-Soo-yeon Kim (Backend)
-Min-a Lee (Backend)
 Development Environment
-
-Front-end
 -------------
+###Front-end
 HTML
 CSS
 JavaScript
 Bootstrap
 
-Back-end
--------------
+###Back-end
 Java 11
 Spring
 Database
@@ -28,10 +26,8 @@ Oracle 19c
 SQL Developer
 Dbeaver
 
-IDE
--------------
+###IDE
 Eclipse
 
-Web Server
--------------
+###Web Server
 Tomcat 9.0
