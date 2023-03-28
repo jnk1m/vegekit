@@ -10,6 +10,14 @@ Members
 * Soo-yeon Kim (Backend)
 * Min-a Lee (Backend)
 
+Development Period
+-------------
+3/15/2022 ~ 4/29/2022
+
+Main Functionality
+-------------
+The main functionality of this project is a customer-tailored product recommendation system. Customers can choose which nutrients they want to receive recommendations for, and the system will sort the products that contain those nutrients by popularity or rating and display them on the main screen.
+
 Development Environment
 -------------
 ### Front-end
