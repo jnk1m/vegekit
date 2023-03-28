@@ -1,22 +1,25 @@
 VegeKit Vegetarian Meal Kit Shopping Mall Project
 =============
+A web-based meal kit shop that provides personalized product recommendations for customers who follow a vegetarian or vegan diet.
 
-VegeKit project was initiated to respond to the increasing demand for home meal replacement due to the prolonged COVID-19 pandemic. It is a project that focuses on the rapid growth of the meal kit sector and the main consumer channel of web pages.
+Description
+-------------
+VegeKit is a web-based meal kit shop that offers personalized product recommendations for vegetarians and vegans. It aims to meet the increasing demand for home meal replacement due to the COVID-19 pandemic and differentiate itself from other meal kit shops in Korea by providing a wider range of customized products that cater to the specific dietary requirements of its target audience.
+
+Main Functionality
+-------------
+The main functionality of this project is to provide personalized product recommendations based on the user's vegetarian/vegan stage and preferred nutrients. Customers can select their vegetarian/vegan stage, such as vegan, lacto, lacto-ovo, pesco, or pollo and the system will sort the products that meet their stage and nutrient requirements and display them on the main screen. The system aims to cater to the specific dietary requirements of its target audience and differentiate itself from other meal kit shops by providing a wider range of customized products.
 
 Members
 -------------
-* Ji-eun Kim (Backend, Frontend)
-* Jung-hyun Kim (Backend)
-* Soo-yeon Kim (Backend)
-* Min-a Lee (Backend)
+* Jieun Kim (Backend, Frontend)
+* Junghyun Kim (Backend)
+* Sooyeon Kim (Backend)
+* Mina Lee (Backend)
 
 Development Period
 -------------
 3/15/2022 ~ 4/29/2022
-
-Main Functionality
--------------
-The main functionality of this project is a customer-tailored product recommendation system. Customers can choose which nutrients they want to receive recommendations for, and the system will sort the products that contain those nutrients by popularity or rating and display them on the main screen.
 
 Development Environment
 -------------
